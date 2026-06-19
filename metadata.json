@@ -1,0 +1,6 @@
+{
+  "name": "Marketo AI Analytics Hub",
+  "description": "Enterprise Marketing Attribution, Performance Analytics, and Predictive ROI Platform with AI Advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
